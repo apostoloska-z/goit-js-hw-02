@@ -22,5 +22,5 @@ if (numbers.length !== 0) {
   console.log(`Общая сумма чисел равна ${total}`);
 } else {
     alert ('Вы ничего не ввели');
-}
+};
 
